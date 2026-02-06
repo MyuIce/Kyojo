@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69ecb95a96ea7724f96c4cdd900e79ca, type: 3}
+  m_Name: "\u7530\u4E2D\u76F4\u5B50"
+  m_EditorClassIdentifier: Assembly-CSharp::CharaData
+  charaId: 2
+  charaName: "\u7530\u4E2D\u76F4\u5B50"
+  faceIcon: {fileID: 6937817954938267909, guid: 50404f40190f9da4d95dc308502d50c4, type: 3}
+  bodyIcon: {fileID: 1369020042949957918, guid: f0c70f4f61e13a84ca64e34d60d97c07, type: 3}
+  mapSpawnPoint: {fileID: 0}
+  profileText: "\u5730\u57DF\u3067\u30D1\u30FC\u30C8\u52E4\u52D9\u3092\u3057\u3066\u3044\u308B50\u4EE3\u306E\u5973\u6027\u3002\n\u843D\u3061\u7740\u3044\u305F\u6027\u683C\u3067\u5468\u56F2\u306E\u72B6\u6CC1\u3092\u3088\u304F\u898B\u3066\u884C\u52D5\u3067\u304D\u308B\u3002\n\u4F53\u529B\u306B\u306F\u3084\u3084\u4E0D\u5B89\u304C\u3042\u308B\u304C\u3001\u907F\u96E3\u3078\u306E\u610F\u8B58\u306F\u9AD8\u3044\u3002"
+  Discription: "\u30FB\u9577\u8DDD\u96E2\u79FB\u52D5\u3084\u968E\u6BB5\u3067\u75B2\u308C\u3084\u3059\u3044\n\u30FB\u58F0\u304B\u3051\u3084\u7C21\u5358\u306A\u8A98\u5C0E\u304C\u3067\u304D\u308B\n\u30FB\u8907\u6570\u4EBA\u3067\u884C\u52D5\u3059\u308B\u3068\u5B89\u5B9A\u3057\u3066\u907F\u96E3\u3067\u304D\u308B"
+  consideration: 0
+  score: 10
+  isWheelchairUser: 0

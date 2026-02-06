@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: 2ecc4c85a92d00e44b1f8eb380f14389
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4905782560166094566
+    second: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_0"
+  - first:
+      213: -312359792479265569
+    second: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_1"
+  - first:
+      213: 5004588562812237136
+    second: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_2"
+  - first:
+      213: -7406157885279257312
+    second: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_3"
+  - first:
+      213: 8153670276164093195
+    second: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_4"
+  - first:
+      213: -9015481173070742449
+    second: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_5"
+  - first:
+      213: -2255804201954317354
+    second: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_6"
+  - first:
+      213: 3648897186094942164
+    second: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_7"
+  - first:
+      213: -8168242913740704793
+    second: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_8"
+  - first:
+      213: -8263195277835494439
+    second: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_9"
+  - first:
+      213: -2064206787951217342
+    second: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_10"
+  - first:
+      213: -5277346352205922651
+    second: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_11"
+  - first:
+      213: -25278937542546313
+    second: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_12"
+  - first:
+      213: 7942695870950568243
+    second: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_13"
+  - first:
+      213: 3672742682772503862
+    second: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_14"
+  - first:
+      213: -3185988383596914680
+    second: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_15"
+  - first:
+      213: 7300759821706784381
+    second: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_16"
+  - first:
+      213: 196600415531526312
+    second: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_17"
+  - first:
+      213: -1495639414385036980
+    second: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_18"
+  - first:
+      213: -61053985151515399
+    second: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_19"
+  - first:
+      213: 2633774105272924409
+    second: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_20"
+  - first:
+      213: 5605682730094746844
+    second: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_21"
+  - first:
+      213: 2124178651543574819
+    second: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_22"
+  - first:
+      213: 1467210039657229451
+    second: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_23"
+  - first:
+      213: 4422057051262790391
+    second: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_24"
+  - first:
+      213: -7378246524295310023
+    second: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_25"
+  - first:
+      213: 9018417479842676701
+    second: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_26"
+  - first:
+      213: -6620449768646467975
+    second: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_27"
+  - first:
+      213: -1840107405476203087
+    second: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_28"
+  - first:
+      213: -2617302260367865157
+    second: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_29"
+  - first:
+      213: 5970279916902362681
+    second: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_30"
+  - first:
+      213: 8665512536937517806
+    second: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_31"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_0"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 844
+        width: 146
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6a10c1f37d41440800000000000000
+      internalID: 4905782560166094566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_1"
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 844
+        width: 149
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc98277c664aabf0800000000000000
+      internalID: -312359792479265569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_2"
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 844
+        width: 154
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055f76d48ced37540800000000000000
+      internalID: 5004588562812237136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_3"
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 844
+        width: 144
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02db87194aa083990800000000000000
+      internalID: -7406157885279257312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_4"
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 844
+        width: 124
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b050c6a8ae7a72170800000000000000
+      internalID: 8153670276164093195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_5"
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 844
+        width: 126
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c75ef93a392e280800000000000000
+      internalID: -9015481173070742449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_6"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 702
+        width: 140
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbeda3b706c1b0e0800000000000000
+      internalID: -2255804201954317354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_7"
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 702
+        width: 168
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d78c1778ac73a230800000000000000
+      internalID: 3648897186094942164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_8"
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 700
+        width: 138
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3326fd85294ae80800000000000000
+      internalID: -8168242913740704793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_9"
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 700
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db1ee2dcab335d80800000000000000
+      internalID: -8263195277835494439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_10"
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 700
+        width: 128
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245b73decd67a53e0800000000000000
+      internalID: -2064206787951217342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_11"
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 700
+        width: 148
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aeff08047913c6b0800000000000000
+      internalID: -5277346352205922651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_12"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 570
+        width: 198
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c2a73b0f036aff0800000000000000
+      internalID: -25278937542546313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_13"
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 570
+        width: 192
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33178faffcf1a3e60800000000000000
+      internalID: 7942695870950568243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_14"
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 570
+        width: 186
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63df11ec20438f230800000000000000
+      internalID: 3672742682772503862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_15"
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 568
+        width: 118
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8085f29f17819c3d0800000000000000
+      internalID: -3185988383596914680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_16"
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 568
+        width: 138
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ee6437062815560800000000000000
+      internalID: 7300759821706784381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_17"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 426
+        width: 182
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8637a49077ab200800000000000000
+      internalID: 196600415531526312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_18"
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 426
+        width: 186
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41b18970eb6e3be0800000000000000
+      internalID: -1495639414385036980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_19"
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 416
+        width: 216
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f40ce659b7172ff0800000000000000
+      internalID: -61053985151515399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_20"
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 424
+        width: 276
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f83a6b289b0d8420800000000000000
+      internalID: 2633774105272924409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_21"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 302
+        width: 142
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcd6da2eb26bcd40800000000000000
+      internalID: 5605682730094746844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_22"
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 302
+        width: 144
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32919bcaa399a7d10800000000000000
+      internalID: 2124178651543574819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_23"
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 302
+        width: 136
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ce7a8e1c39c5410800000000000000
+      internalID: 1467210039657229451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_24"
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 302
+        width: 134
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7faa705857d4e5d30800000000000000
+      internalID: 4422057051262790391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_25"
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 302
+        width: 144
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9351e16b0e33b9990800000000000000
+      internalID: -7378246524295310023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_26"
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 62
+        width: 128
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf32329aead72d70800000000000000
+      internalID: 9018417479842676701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_27"
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 62
+        width: 140
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e928613007f14a0800000000000000
+      internalID: -6620449768646467975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_28"
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 62
+        width: 176
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b576046010a676e0800000000000000
+      internalID: -1840107405476203087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_29"
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 62
+        width: 168
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba42f416797dabd0800000000000000
+      internalID: -2617302260367865157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_30"
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 62
+        width: 109
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e2d98d3f1bad250800000000000000
+      internalID: 5970279916902362681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_31"
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 62
+        width: 126
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2dad09db5124870800000000000000
+      internalID: 8665512536937517806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_0": 4905782560166094566
+      "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_1": -312359792479265569
+      "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_10": -2064206787951217342
+      "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_11": -5277346352205922651
+      "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_12": -25278937542546313
+      "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_13": 7942695870950568243
+      "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_14": 3672742682772503862
+      "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_15": -3185988383596914680
+      "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_16": 7300759821706784381
+      "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_17": 196600415531526312
+      "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_18": -1495639414385036980
+      "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_19": -61053985151515399
+      "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_2": 5004588562812237136
+      "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_20": 2633774105272924409
+      "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_21": 5605682730094746844
+      "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_22": 2124178651543574819
+      "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_23": 1467210039657229451
+      "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_24": 4422057051262790391
+      "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_25": -7378246524295310023
+      "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_26": 9018417479842676701
+      "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_27": -6620449768646467975
+      "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_28": -1840107405476203087
+      "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_29": -2617302260367865157
+      "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_3": -7406157885279257312
+      "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_30": 5970279916902362681
+      "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_31": 8665512536937517806
+      "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_4": 8153670276164093195
+      "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_5": -9015481173070742449
+      "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_6": -2255804201954317354
+      "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_7": 3648897186094942164
+      "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_8": -8168242913740704793
+      "ChatGPT Image 2026\u5E741\u670818\u65E5 12_26_25_9": -8263195277835494439
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - InteractionText
+  - SafeZone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Collision
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Road
+    uniqueID: 863347883
+    locked: 0
+  - name: Player
+    uniqueID: 3632646715
+    locked: 0
+  - name: house
+    uniqueID: 1425212553
+    locked: 0
+  - name: Collision
+    uniqueID: 2094460531
+    locked: 0
+  m_RenderingLayers:
+  - Default
